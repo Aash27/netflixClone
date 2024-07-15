@@ -45,5 +45,7 @@ If you are using full token @ `Bearer accessToken` then make sure to replace you
 MONGO_URL = YourDatabaseConnectionUrl
 SECRET_KEY = YourSecretKey for CryptoJS
 ``` 
-
+## Contributors:
+1. Aashlesha Rajput
+   
 > Credit: LamaDev(YT)
