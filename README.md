@@ -1,7 +1,6 @@
 # Netflix Clone
 
-Build entirely on the MERN stack, a full Netflix Clone. Firebase for storing all metadata like movies, shows, trailers, covers.
-> Hosting this project SOON!
+A Netflix Clone with firebase for storing all metadata like movies, shows, trailers, covers.
 
 ## Features of the Netflix Client
 - Register
