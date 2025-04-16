@@ -46,8 +46,8 @@ SECRET_KEY = YourSecretKey for CryptoJS
 ``` 
 
 ### Contributors
-Vedant Lad
-Aashlesha Rajput
-Shravni Gavli
-Parth Chavan
+1. Aashlesha Rajput
+2. Vedant Lad
+4. Shravni Gavli
+5. Parth Chavan
 > Credit: LamaDev(YT)
